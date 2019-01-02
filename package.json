@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Baked Beans",
+    "category": "Beans",
+    "price": 1.99,
+    "image": "img/bakedbeans.jpg"
+  },
+  {
+    "title": "Hot Dogs",
+    "category": "Sausages",
+    "price": 2.19,
+    "image": "img/hotdogs.jpg"
+  },
+  {
+    "title": "Beverage Thickener",
+    "category": "Canned",
+    "price": 1.99,
+    "image": "img/drinkthickener.jpg"
+  },
+  {
+    "title": "Refried Beans",
+    "category": "Beans",
+    "price": 1.49,
+    "image": "img/refriedbeans.jpg"
+  },
+  {
+    "title": "Kidney Beans",
+    "category": "Beans",
+    "price": 1.85,
+    "image": "img/kidneybeans.jpg"
+  },
+  {
+    "title": "Garden Beans",
+    "category": "Beans",
+    "price": 0.99,
+    "image": "img/gardenbeans.jpg"
+  },
+  {
+    "title": "Canned Tomatoes",
+    "category": "Canned",
+    "price": 3.99,
+    "image": "img/cannedtomato.jpg"
+  },
+  {
+    "title": "Chicken Noodles",
+    "category": "Canned",
+    "price": 1.69,
+    "image": "img/chickennoodles.jpg"
+  },
+  {
+    "title": "Black Bread",
+    "category": "Bread",
+    "price": 1.69,
+    "image": "img/blackbread.jpg"
+  },
+  {
+    "title": "M&M's",
+    "category": "Sweets",
+    "price": 1.69,
+    "image": "img/ms.jpg"
+  },
+  {
+    "title": "Hershey's Cocoa",
+    "category": "Sweets",
+    "price": 1.69,
+    "image": "img/hersheys.jpg"
+  },
+  {
+    "title": "Bread",
+    "category": "Bread",
+    "price": 1.69,
+    "image": "img/bread.jpg"
+  },
+  {
+    "title": "Apples",
+    "category": "Fruits",
+    "price": 1.69,
+    "image": "img/apple.jpg"
+  },
+  {
+    "title": "Oranges",
+    "category": "Fruits",
+    "price": 1.69,
+    "image": "img/oranges.jpg"
+  },
+  {
+    "title": "Grapes",
+    "category": "Fruits",
+    "price": 1.69,
+    "image": "img/grapes.jpg"
+  },
+  {
+    "title": "Cheese",
+    "category": "Dairy",
+    "price": 1.69,
+    "image": "img/cheese.jpg"
+  },
+  {
+    "title": "Milk",
+    "category": "Dairy",
+    "price": 1.69,
+    "image": "img/milk.jpg"
+  },
+  {
+    "title": "Cookies",
+    "category": "Sweets",
+    "price": 1.69,
+    "image": "img/cookies.jpg"
+  },
+  {
+    "title": "Pineapples",
+    "category": "Fruits",
+    "price": 1.69,
+    "image": "img/pineapple.jpg"
+  },
+  {
+    "title": "Pears",
+    "category": "Fruits",
+    "price": 1.69,
+    "image": "img/pear.jpg"
+  }
+]
+  
